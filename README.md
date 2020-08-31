@@ -1,0 +1,1 @@
+# dell-Inspiron7560-OpenCore-EFI
